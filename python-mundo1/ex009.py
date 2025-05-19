@@ -1,0 +1,8 @@
+nu1 = int(input("Digite um numero para ver a tabuada dele: "))
+print("="*11)
+print(f"{nu1} x {1} = {nu1*1}")
+print(f"{nu1} x {2} = {nu1*2}")
+print(f"{nu1} x {3} = {nu1*3}")
+print(f"{nu1} x {4} = {nu1*4}")
+print(f"{nu1} x {5} = {nu1*5}")
+print("="*11)
